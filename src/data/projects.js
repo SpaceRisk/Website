@@ -15,7 +15,7 @@ export const projects = [
     ],
     techStack: {
       frontend: "React, JavaScript, CSS",
-      backend: "Node.js, AWS Amplify, AWS EC2",
+      backend: "Node.js, AWS Amplify, dynamoDB",
       hardware: "ESP32, moisture/light/temp sensors, water pump"
     },
     githubUrl: "https://github.com/SeaRisk/automated-plant-caregiver",
