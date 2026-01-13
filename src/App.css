@@ -1,0 +1,34 @@
+.app {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 20px;
+  padding-top: 80px;
+}
+
+.section {
+  margin-bottom: 24px;
+}
+
+.card {
+  background: var(--color-card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-card);
+  padding: 24px;
+}
+
+.section-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 16px;
+  color: var(--color-text);
+}
+
+.resume-section-title {
+  font-size: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--color-text);
+  margin-bottom: 16px;
+}
